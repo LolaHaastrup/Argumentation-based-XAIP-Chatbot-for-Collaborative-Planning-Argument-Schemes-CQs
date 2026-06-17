@@ -980,7 +980,7 @@ elif page == "📝 Consent":
     <ul>
     <li>Read a brief introduction to the system (approximately 5 minutes).</li>
     <li>Explore the plan explanation using the chatbot interface (approximately 10–15 minutes).</li>
-    <li>Complete a 22-item questionnaire (approximately 10 minutes).</li>
+    <li>Complete a 18-item questionnaire (approximately 10 minutes).</li>
     </ul>
     <p><b>Total estimated time: 25–30 minutes.</b></p>
 
